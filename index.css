@@ -1,0 +1,83 @@
+body{
+	background-color: hsl(218, 28%, 13%);
+}
+							/*Nav bar*/
+.nav1{
+	padding: 1.25rem 2rem;
+	font-size: 1rem;
+	font-family: 'Raleway', sans-serif;
+}
+.brand
+{
+	font-size: 2.5rem;
+}
+.navbar-nav > li{
+  padding-left:1.875rem;
+  padding-right:1.875rem;
+}
+
+
+
+                 				/*IMG*/
+.img1{
+margin-left:20rem; 
+margin-top: 5rem;
+}
+#title h3{
+	font-size: 2rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 20rem;
+	line-height: 4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    /*Mobile*/
+@media(max-width:900px){
+.img1{
+width: 30rem;
+margin-left:0rem; 
+margin-top: 5rem;
+height: 25rem;
+}
+#title h3{
+	font-size: 2rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 2rem;
+	line-height: 3rem;
+}
+
+
+
+
+
+
+}
