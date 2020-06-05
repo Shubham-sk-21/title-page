@@ -1,3 +1,4 @@
+           /*desktop*/
 body{
 	background-color: hsl(218, 28%, 13%);
 }
@@ -23,16 +24,58 @@ body{
 margin-left:20rem; 
 margin-top: 5rem;
 }
+
+
+
+
+
+                           /*Title*/
 #title h3{
 	font-size: 2rem;
 	color: white;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 	margin-top: 3rem;
-	padding: 0rem 20rem;
-	line-height: 4rem;
+	padding: 0rem 22rem;
+	line-height: 3rem;
 }
 
+#title p{
+	font-size: 1rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 26rem;
+	line-height: 2rem;
+}
+#title a{
+
+margin-left: 36.25rem;
+
+}
+
+
+.myButton {
+	background-color:#29a0cc;
+	border-radius:28px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 53px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
 
 
@@ -75,7 +118,20 @@ height: 25rem;
 	line-height: 3rem;
 }
 
+#title p{
+	font-size: 1rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 2rem;
+	line-height: 2rem;}
 
+#title a{
+
+margin-left: 9rem;
+
+}
 
 
 
