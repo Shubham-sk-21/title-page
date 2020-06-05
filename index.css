@@ -3,6 +3,8 @@ body{
 	background-color: hsl(218, 28%, 13%);
 }
 							/*Nav bar*/
+
+
 .nav1{
 	padding: 1.25rem 2rem;
 	font-size: 1rem;
@@ -24,9 +26,9 @@ body{
 margin-left:20rem; 
 margin-top: 5rem;
 }
-
-
-
+.img2{
+width: 30rem;
+}
 
 
                            /*Title*/
@@ -46,7 +48,7 @@ margin-top: 5rem;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 	margin-top: 3rem;
-	padding: 0rem 26rem;
+	padding: 0rem 22rem;
 	line-height: 2rem;
 }
 #title a{
@@ -54,6 +56,30 @@ margin-top: 5rem;
 margin-left: 36.25rem;
 
 }
+
+
+#middle h3{
+	font-size: 2rem;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	line-height: 3rem;
+	padding: 0rem 5rem;
+	position: relative;
+	left: 4rem;
+}
+
+#middle p{
+	text-align: left;
+	font-size: 1rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 2rem;
+	line-height: 2rem;
+}
+
 
 
 .myButton {
@@ -132,8 +158,32 @@ height: 25rem;
 margin-left: 9rem;
 
 }
+#middle h3{
+	font-size: 1.5rem;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 3rem;
+	padding: 0rem 0rem;
+	margin: 0rem 0rem;
+	display: inline;
+	position: relative;
+	right: 4rem;
 
+}
 
-
+#middle p{
+	text-align: left;
+	font-size: 1rem;
+	color: white;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 3rem;
+	padding: 0rem 2rem;
+	line-height: 2rem;
+}
+.col1{
+	padding: 0rem 0rem;
+	margin: 0rem 0rem;
+}
 
 }
